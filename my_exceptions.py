@@ -1,4 +1,4 @@
-class UserAlreadyExistError(Exception):
+class UserAlreadyExistsError(Exception):
     pass
 
 class UserNotFoundError(Exception):

@@ -1,1 +1,8 @@
-{}
+{
+    "users_by_id": {
+        "cd3481fb-1f98-4fab-a2b9-f4903afb68fe": {
+            "role": "admin",
+            "name": "Marius"
+        }
+    }
+}
